@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'VCRMono';
+  src: url('./assets/fonts/VCR_OSD_MONO_1.001.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  padding: 50px;
+  font-family: VCRMono;
+  display: flex;
+  flex-direction: column;
+  align-items: center;  
+}
+
+p{
+  font-size: 1.125em;
+}
+
+button{
+    background: black;
+    color: white;
+    padding: 8px 17px;
+    border-radius: 50px;
+    font-size: 1.125em;
+    justify-content: center;
+    display: flex;
+    border:none;
+    font-family: VCRMono;
+    transition: background 0.25s ease;
+}
+
+button:hover{
+  background: rgb(43, 43, 43);
+}
+
+h1{
+    font-size: 5em;
+    margin-bottom: 0px;
+}
