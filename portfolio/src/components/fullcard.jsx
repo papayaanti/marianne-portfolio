@@ -5,7 +5,7 @@ function FullCard() {
   return (
     <div className='fullcard'>
 
-        <img src='/profile.webp' alt="pixel art of marianne"/>
+        <img src='profile.webp' alt="pixel art of marianne"/>
 
         <div className='description'>
             <p className='small-text'>01. about me</p>
