@@ -1,0 +1,38 @@
+.fullcard{
+    font-family: VCRMono;
+    display: flex;
+    width: 100%;
+    border-radius: 50px;
+    border: 3px solid black;
+    background: white;
+    overflow: hidden;
+    margin-bottom: 55px;
+    padding: 30px;
+    gap: 55px;
+    text-align: left;
+}
+
+.description{
+    overflow-wrap: anywhere;
+}
+
+.description{
+    font-size: 1.1em;
+}
+
+.small-text{
+    font-size: 1.125em;
+    margin-bottom: 0px;
+}
+
+img{
+    width: 340px;
+    height: 340px;
+}
+
+h1{
+    font-size: 5em;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+

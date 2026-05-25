@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "dental clinic website",
+    "languages": ["react.js", "bootstrap"],
+    "image": "/dentist.webp",
+    "description": "a mock dental clinic website."
+  },
+  {
+    "id": 2,
+    "title": "game website",
+    "languages": ["html5", "css3", "javascript"],
+    "image": "/game.webp",
+    "description": "an online game."
+  },
+  {
+    "id": 3,
+    "title": "e-commerce website",
+    "languages": ["react.js"],
+    "image": "/ecommerce.webp",
+    "description": "an e-commerce platform."
+  },
+  {
+    "id": 4,
+    "title": "interactive dashboard",
+    "languages": ["react.js"],
+    "image": "/dashboard.webp",
+    "description": "a web-based dashboard."
+  }
+]

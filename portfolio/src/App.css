@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+/*body*/
+#about{
+  display: flex;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+#projects{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 55px;
+}
