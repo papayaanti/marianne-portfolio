@@ -4,6 +4,7 @@
     "title": "dental clinic website",
     "languages": ["react.js", "bootstrap"],
     "image": "dentist.webp",
+    "link": "/marianne-portfolio/error.html",
     "description": "a mock dental clinic website."
   },
   {
@@ -11,6 +12,7 @@
     "title": "game website",
     "languages": ["html5", "css3", "javascript"],
     "image": "game.webp",
+    "link": "/marianne-portfolio/error.html",
     "description": "an online game."
   },
   {
@@ -18,6 +20,7 @@
     "title": "e-commerce website",
     "languages": ["react.js"],
     "image": "ecommerce.webp",
+    "link": "/marianne-portfolio/error.html",
     "description": "an e-commerce platform."
   },
   {
@@ -25,6 +28,7 @@
     "title": "interactive dashboard",
     "languages": ["react.js"],
     "image": "dashboard.webp",
+    "link": "/marianne-portfolio/error.html",
     "description": "a web-based dashboard."
   }
 ]
