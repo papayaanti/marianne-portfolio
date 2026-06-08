@@ -28,6 +28,12 @@
 img{
     width: 340px;
     height: 340px;
+    filter: grayscale(100%);
+    transition: filter 0.4s ease;
+}
+
+img:hover{
+    filter: grayscale(0%);
 }
 
 h1{

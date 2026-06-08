@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "dental clinic website",
-    "languages": ["react.js", "bootstrap"],
-    "image": "dentist.webp",
-    "link": "/marianne-portfolio/error.html",
-    "description": "a mock dental clinic website."
+    "title": "sandstone salon",
+    "languages": ["react.js"],
+    "image": "hair.webp",
+    "link": "https://papayaanti.github.io/sandstone-salon",
+    "description": "a mock hair salon website."
   },
   {
     "id": 2,
