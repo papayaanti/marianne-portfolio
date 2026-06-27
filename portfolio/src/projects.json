@@ -2,18 +2,18 @@
   {
     "id": 1,
     "title": "sandstone salon",
-    "languages": ["react.js"],
+    "languages": ["react.js", "figma"],
     "image": "hair.webp",
     "link": "https://papayaanti.github.io/sandstone-salon",
     "description": "a mock hair salon website."
   },
   {
     "id": 2,
-    "title": "game website",
-    "languages": ["html5", "css3", "javascript"],
+    "title": "match it!",
+    "languages": ["react.js", "figma"],
     "image": "game.webp",
-    "link": "/marianne-portfolio/error.html",
-    "description": "an online game."
+    "link": "https://papayaanti.github.io/match-it/",
+    "description": "a pairing game."
   },
   {
     "id": 3,
