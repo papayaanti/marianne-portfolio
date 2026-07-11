@@ -17,11 +17,11 @@
   },
   {
     "id": 3,
-    "title": "e-commerce website",
-    "languages": ["react.js"],
+    "title": "printed.co",
+    "languages": ["react.js", "figma"],
     "image": "ecommerce.webp",
-    "link": "/marianne-portfolio/error.html",
-    "description": "an e-commerce platform."
+    "link": "https://papayaanti.github.io/printed-co/",
+    "description": "an art commerce platform."
   },
   {
     "id": 4,
