@@ -10,6 +10,7 @@
     padding: 30px;
     gap: 55px;
     text-align: left;
+    align-items: center;
 }
 
 .description{
