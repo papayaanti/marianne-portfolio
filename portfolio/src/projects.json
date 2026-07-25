@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": "check my champion",
-    "languages": ["react.js", "figma", "typescript"],
+    "languages": ["react.js", "figma"],
     "image": "dashboard.webp",
     "link": "https://papayaanti.github.io/checkmychampion/",
     "description": "a video game character stat dashboard."
