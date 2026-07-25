@@ -25,10 +25,10 @@
   },
   {
     "id": 4,
-    "title": "interactive dashboard",
-    "languages": ["react.js"],
+    "title": "check my champion",
+    "languages": ["react.js", "figma", "typescript"],
     "image": "dashboard.webp",
-    "link": "/marianne-portfolio/error.html",
-    "description": "a web-based dashboard."
+    "link": "https://papayaanti.github.io/checkmychampion/",
+    "description": "a video game character stat dashboard."
   }
 ]
